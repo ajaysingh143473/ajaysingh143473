@@ -33,7 +33,7 @@ Hi there 👋 I'm Ajay Singh
 
 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: https://in.linkedin.com/in/ajay-singh-gogulapalli-897834250
 - GitHub: https://github.com/ajaysingh143473
 
 ---
